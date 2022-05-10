@@ -6,6 +6,6 @@ Algoritmo algoritmosuma
 	n2=7
 	
 	Mostrar n1+n2
-	
+	Mostrar n1*n2
 	
 FinAlgoritmo
